@@ -1,3 +1,4 @@
+Esse repositorio foi para testar Git e Github tanto por github desktop quano por terminal
 # PrimeiroRepositorio
 Teste de Repositorios
 Teste realizado com sucesso
